@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Horizontal parallax sliding slider  with Swiper.js</title>
+  <title>Seminario neuroanatomia</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.7/css/swiper.min.css'><link rel="stylesheet" href="https://drive.google.com/uc?export=view&id=1r3plwavpTfy_zCvXbJOYO6tcuCoaaTlv">
 
